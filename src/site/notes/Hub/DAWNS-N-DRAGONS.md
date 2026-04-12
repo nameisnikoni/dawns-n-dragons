@@ -6,7 +6,7 @@
 
 1. [HIGH RESOLUTION MAP](https://srv2.zoomable.ca/viewer.php?i=img82c8c8f445920d8f_dnd_map_newgen_rev&bg=22221E&embed=0&navigator=1)
 2. [[Hub/DAWNS-N-DRAGONS#^sponsors\|СПОНСОРЫ]]
-3. [[Hub/DAWNS-N-DRAGONS#^changelog\|CHANGELOG]]`
+3. [[Hub/DAWNS-N-DRAGONS#^changelog\|CHANGELOG]]
 
 ---
 # НАШИ СПОНСОРЫ:{ #sponsors}
