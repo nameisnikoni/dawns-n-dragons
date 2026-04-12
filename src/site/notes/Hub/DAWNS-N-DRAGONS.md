@@ -3,7 +3,7 @@
 ---
 
 *Данная страница является хабом информации о великом и могучем мире подземелий!*
-
+/digital
 1. [HIGH RESOLUTION MAP](https://srv2.zoomable.ca/viewer.php?i=img82c8c8f445920d8f_dnd_map_newgen_rev&bg=22221E&embed=0&navigator=1)
 2. `[[#^sponsors|СПОНСОРЫ]]`
 3. `[[#^changelog|CHANGELOG]]`
