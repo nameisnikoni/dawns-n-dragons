@@ -1,20 +1,20 @@
 {
   "/": [
-    "_Hub",
-    "Characters",
+    "Hub",
     "Mechanics",
-    "World Lore"
+    "World Lore",
+    "Characters"
   ],
-  "/_Hub": [
+  "/Hub": [
     "DAWNS-N-DRAGONS"
-  ],
-  "/Characters": [
-    "ГЕРОИ DAWNS-N-DRAGONS"
   ],
   "/Mechanics": [
     "МЕХАНИКИ DAWNS-N-DRAGONS"
   ],
   "/World Lore": [
     "ИСТОРИЯ МИРА DAWNS-N-DRAGONS"
+  ],
+  "/Characters": [
+    "ГЕРОИ DAWNS-N-DRAGONS"
   ]
 }
