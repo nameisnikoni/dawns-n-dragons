@@ -1,20 +1,58 @@
 {
   "/": [
-    "Hub",
-    "Mechanics",
-    "World Lore",
-    "Characters"
-  ],
-  "/Hub": [
     "DAWNS-N-DRAGONS"
   ],
-  "/Mechanics": [
-    "МЕХАНИКИ DAWNS-N-DRAGONS"
+  "/DAWNS-N-DRAGONS": [
+    "Hub",
+    "Characters",
+    "World Lore",
+    "Mechanics"
   ],
-  "/World Lore": [
+  "/DAWNS-N-DRAGONS/Hub": [
+    "DAWNS-N-DRAGONS"
+  ],
+  "/DAWNS-N-DRAGONS/Characters": [
+    "Персонажи Артема",
+    "Персонажи Вани",
+    "Персонажи Вовы",
+    "Персонажи Дениса",
+    "Персонажи Димы",
+    "Персонажи Миши",
+    "Персонажи Семена",
+    "ГЕРОИ DAWNS-N-DRAGONS"
+  ],
+  "/DAWNS-N-DRAGONS/Characters/Персонажи Артема": [
+    "1. Артемид Юричит – дварф, оружейник",
+    "2. Мален Кихрен – эльф, жрец"
+  ],
+  "/DAWNS-N-DRAGONS/Characters/Персонажи Вани": [
+    "1. Натус ин Монтибус – табакси, торговец",
+    "2. Адэльф Виль-Нихт – эльф, лесничий"
+  ],
+  "/DAWNS-N-DRAGONS/Characters/Персонажи Вовы": [
+    "1. Рэбэ Беспощадный – эльф, жрец",
+    "2. Ричард Смолволкер – дварф, волшебник"
+  ],
+  "/DAWNS-N-DRAGONS/Characters/Персонажи Дениса": [
+    "1. Хаттори Яногивара – дракон, самурай",
+    "2. Эдвард Кенуэ – человек, наемник"
+  ],
+  "/DAWNS-N-DRAGONS/Characters/Персонажи Димы": [
+    "1. Люцифер Хой – человек, бард",
+    "2. Крафт Майн – кенку, плут"
+  ],
+  "/DAWNS-N-DRAGONS/Characters/Персонажи Миши": [
+    "1. Дар Шлёпус – табакси, торговец"
+  ],
+  "/DAWNS-N-DRAGONS/Characters/Персонажи Семена": [
+    "1. Авов Родип – человек, монах",
+    "2. Леголас – эльф, жрец",
+    "3. Ган де Донте – дварф, оружейник"
+  ],
+  "/DAWNS-N-DRAGONS/World Lore": [
     "ИСТОРИЯ МИРА DAWNS-N-DRAGONS"
   ],
-  "/Characters": [
-    "ГЕРОИ DAWNS-N-DRAGONS"
+  "/DAWNS-N-DRAGONS/Mechanics": [
+    "МЕХАНИКИ DAWNS-N-DRAGONS"
   ]
 }
