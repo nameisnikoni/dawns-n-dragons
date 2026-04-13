@@ -3,17 +3,16 @@
 ---
 
 *Данная страница является хабом информации о великом и могучем мире подземелий!*
-
 ### HUB:
 1. [HIGH RESOLUTION MAP](https://srv2.zoomable.ca/viewer.php?i=img82c8c8f445920d8f_dnd_map_newgen_rev&bg=22221E&embed=0&navigator=1)
 2. [[DAWNS-N-DRAGONS/ХАБ/DAWNS-N-DRAGONS#^sponsors\|СПОНСОРЫ]]
 3. [[DAWNS-N-DRAGONS/ХАБ/DAWNS-N-DRAGONS#^changelog\|CHANGELOG]]
-### [[DAWNS-N-DRAGONS/ПЕРСОНАЖИ/ГЕРОИ DAWNS-N-DRAGONS\|ПЕРСОНАЖИ]]
-### [[DAWNS-N-DRAGONS/ИСТОРИЯ МИРА/ИСТОРИЯ МИРА DAWNS-N-DRAGONS\|ИСТОРИЯ МИРА]]
-### [[DAWNS-N-DRAGONS/МЕХАНИКИ ИГРЫ/МЕХАНИКИ DAWNS-N-DRAGONS\|МЕХАНИКИ ИГРЫ]]
+#### [[DAWNS-N-DRAGONS/ПЕРСОНАЖИ/ГЕРОИ DAWNS-N-DRAGONS\|ПЕРСОНАЖИ]]
+#### [[DAWNS-N-DRAGONS/ИСТОРИЯ МИРА/ИСТОРИЯ МИРА DAWNS-N-DRAGONS\|ИСТОРИЯ МИРА]]
+#### [[DAWNS-N-DRAGONS/МЕХАНИКИ ИГРЫ/МЕХАНИКИ DAWNS-N-DRAGONS\|МЕХАНИКИ ИГРЫ]]
 
 ---
-# НАШИ СПОНСОРЫ:{ #sponsors}
+#### НАШИ СПОНСОРЫ:{ #sponsors}
 
 
 | **Спонсор**    | Материальные и нематериальные вложения                                                                                       |
@@ -27,7 +26,7 @@
 | **Кирилл**     | 5₽                                                                                                                           |
 
 ---
-# CHANGELOG:{ #changelog}
+#### CHANGELOG:{ #changelog}
 
 
 | **Дата**     | Краткое описание                                        | Полная информация                                                                                                                                                                                                                                                                   |
