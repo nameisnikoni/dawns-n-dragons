@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dawns-n-dragons/characters/geroi-dawns-n-dragons/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/DAWNS-N-DRAGONS/Characters/ГЕРОИ DAWNS-N-DRAGONS/","dg-note-properties":{}}
 ---
 
 <i>Каталог персонажей, состоящий из имен, лично составленных игроками, предысторий, вооружений и характеристик героев. Приписка</i><b> (!) </b><i>означает неакутальность сведений.</i>

@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/dawns-n-dragons/hub/dawns-n-dragons/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/DAWNS-N-DRAGONS/Hub/DAWNS-N-DRAGONS/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 *Данная страница является хабом информации о великом и могучем мире подземелий!*
 
+### HUB:
 1. [HIGH RESOLUTION MAP](https://srv2.zoomable.ca/viewer.php?i=img82c8c8f445920d8f_dnd_map_newgen_rev&bg=22221E&embed=0&navigator=1)
 2. [[DAWNS-N-DRAGONS/Hub/DAWNS-N-DRAGONS#^sponsors\|СПОНСОРЫ]]
 3. [[DAWNS-N-DRAGONS/Hub/DAWNS-N-DRAGONS#^changelog\|CHANGELOG]]
+### [[DAWNS-N-DRAGONS/Characters/ГЕРОИ DAWNS-N-DRAGONS\|ПЕРСОНАЖИ]]
+### [[DAWNS-N-DRAGONS/World Lore/ИСТОРИЯ МИРА DAWNS-N-DRAGONS\|ИСТОРИЯ МИРА]]
+### [[DAWNS-N-DRAGONS/Mechanics/МЕХАНИКИ DAWNS-N-DRAGONS\|МЕХАНИКИ ИГРЫ]]
 
 ---
 # НАШИ СПОНСОРЫ:{ #sponsors}

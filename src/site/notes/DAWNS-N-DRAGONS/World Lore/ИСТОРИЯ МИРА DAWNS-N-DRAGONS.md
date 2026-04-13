@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dawns-n-dragons/world-lore/istori-ya-mira-dawns-n-dragons/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/DAWNS-N-DRAGONS/World Lore/ИСТОРИЯ МИРА DAWNS-N-DRAGONS/","dg-note-properties":{}}
 ---
 
 *Настольная ролевая игра, в сеттинге классических средневековий с нотками магии, эпических сражений и приятных воспоминаний на остаток вашего детства.*

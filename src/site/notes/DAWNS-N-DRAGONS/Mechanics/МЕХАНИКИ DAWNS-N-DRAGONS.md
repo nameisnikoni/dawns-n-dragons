@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dawns-n-dragons/mechanics/mehaniki-dawns-n-dragons/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/DAWNS-N-DRAGONS/Mechanics/МЕХАНИКИ DAWNS-N-DRAGONS/","dg-note-properties":{}}
 ---
 
 Орки
